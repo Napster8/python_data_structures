@@ -1,2 +1,38 @@
-# python_data_structures
-Brief Run Through on most useful structures.
+- List - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/Python-Data-Structures/01_list.ipynb)
+  - Cache Friendliness, Time Complexity, Advantages and Implementation in Python discussed.
+  - Finding Average.
+  - Seperating Even and Odd.
+  - Getting Smaller Elements.
+  - Generating Even and Odd Lists.
+  - Finding Maximum and Minimum Numbers.
+  - Checking if Lists are sorted or not.
+  - Finding a Number that occurs odd number of times.
+  - Reversing a list.
+  - Left Rotating by `d` places. (multiple implementations discussed).
+- String - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/Python-Data-Structures/02_string.ipynb)
+  - Basic syntax, immutability, operations
+  - Check for Palindrome
+  - Anagram or not - multiple methods with time complexity analysis.
+- Functions and Classes - [Link](https://github.com/Napster8/Data-Science/blob/Napster8/Machine-Learning/Python-Data-Structures/03_functions_and_classes.ipynb)
+  - Inner functions
+  - Decorators
+  - Decorators to measure run-time.
+  - Classes
+  - `__init__` function
+- Brief intro to Linked List
+  - Introduction, Time Complexity
+  - Introduction to Chaining, Hashing and Open Addressing.
+  - Nodes and Pointers
+  - Singly Linked List
+  - Improvization
+- Recursion
+  - Meaning, Applications of Recursion
+  - Reverse Printing
+  - Mirroring
+  - Logarithmic of a number
+  - Binary Representation of a number.
+  - Sum of Natural Numbers - direct and recursive solutions.
+  - Print n to 1 using recursion.
+  - Print 1 to n using recursion.
+  - Print sum of digits using recursion.
+  - **Tower of Hanoi** using Recursion.
